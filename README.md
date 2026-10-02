@@ -3,6 +3,5 @@
 I'm an applied Cognitive Scientist from San Diego. 
 ## :book: About Me
 - 🎓 Bachelor's in Cognitive Science at UC San Diego
-- 🎨 My design philosophy revolves around making a difference in the lives of others. I think deeply about the people who will use my designs and the context of their experience.
-- 🌮 Born to Mexican immigrants, my childhood was spent living between San Diego and Tijuana. My experience as a bordertown kid gave me an appreciation for human differences and a curious, open mind when faced with new information.
+- 🎨 My philosophy revolves around making a difference in the lives of others. I think deeply about the people who will use my designs and the context of their experience.
 - 🌊 You can find me at the beach, studying Japanese, solving sudoku puzzles, or watching Seinfeld in my spare time
